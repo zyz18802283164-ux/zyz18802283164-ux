@@ -16,7 +16,7 @@
 
 ### 🧭 工作经历
 
-<strong>中国建科</strong> -- <code>后端开发工程师 · AI 应用方向</code> <!-- 起止时间确认后补在这里：202X.X ~ 至今 -->
+<strong>CCTC</strong> -- <code>后端开发工程师 · AI 应用方向</code> -- <code>2025.9 ~ 至今</code>
 
 负责城市体检 AI 平台核心链路的架构设计与研发：RAG 检索、多智能体编排、流式交互与 Java / Python 微服务治理。
 
